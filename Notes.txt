@@ -20,3 +20,8 @@ Entertainment System (ES):
 Range: 0x800 to 0x8FF
 Navigation System (NS):
 Range: 0x900 to 0x9FF
+
+Think the following steps in the exploit need to be to
+1. resend messages in the capture with ignition on with dominant bits so the other ecus shut up
+2. send the engine on brake and startup codes all with dominant bits 
+3. Turn the ignition on

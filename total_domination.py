@@ -54,5 +54,4 @@ def send_messages_with_dominant_bits():
             time.sleep(0.04)
 
 # Execute the functions
-receive_and_replay_messages()
 send_messages_with_dominant_bits()
