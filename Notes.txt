@@ -1,0 +1,22 @@
+Standard OBD-II Diagnostics:
+Range: 0x7DF to 0x7E7
+Engine Control Module (ECM):
+Range: 0x0C0 to 0x0FF
+Transmission Control Module (TCM):
+Range: 0x100 to 0x1FF
+Anti-lock Braking System (ABS):
+Range: 0x200 to 0x2FF
+Airbag Control Module (ACM):
+Range: 0x300 to 0x3FF
+Body Control Module (BCM):
+Range: 0x400 to 0x4FF
+Instrument Cluster (IC):
+Range: 0x500 to 0x5FF
+Climate Control Module (CCM):
+Range: 0x600 to 0x6FF
+Parking Assist System (PAS):
+Range: 0x700 to 0x7FF
+Entertainment System (ES):
+Range: 0x800 to 0x8FF
+Navigation System (NS):
+Range: 0x900 to 0x9FF
