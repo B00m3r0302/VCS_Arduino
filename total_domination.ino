@@ -11,7 +11,7 @@ char ssid[] = "BAH-2G";
 char pass[] = "edwin-carl-james";
 
 // Destination IP and port
-IPAddress serverIP(192, 168, 1, 34);
+IPAddress serverIP(192, 168, 3, 43);
 int serverPort = 8888;
 
 // Set the MAC address for the board if needed
